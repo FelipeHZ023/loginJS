@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bungee+Spice&family=Honk:MORF@15&display=swap');
+
+body{
+    text-align: center;
+    background-color: white;
+}
+
+.titulo{
+  font-family: "Honk", sans-serif;
+  color: yellow;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    text-align: center;
+}
+
+#botton
+.botaologin{
+    height: 40px;
+    width: 100px;
+    background-color: yellow;
+    border: 0;
+    border-radius: 50px;
+    font-size: 15px;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+#image
+.imagemLogo{
+    border-radius: 15px;
+}
